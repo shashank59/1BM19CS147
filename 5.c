@@ -1,3 +1,4 @@
+//read 2d array storing marks of 5 students in 3 subjects and display highest a=marks in each subject
 #include<stdio.h>
 int main()
 {
