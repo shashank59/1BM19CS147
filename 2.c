@@ -1,3 +1,4 @@
+//Develop a program to print transpose matrix
 #include<stdio.h>
 int main()
 {
