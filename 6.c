@@ -1,3 +1,4 @@
+//concatenating 2 strings
 #include<stdio.h>
 int main()
 {
