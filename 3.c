@@ -1,3 +1,4 @@
+//Develop a program to check if string is pallindrome
 #include<stdio.h>
 int main()
 {
