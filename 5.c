@@ -18,5 +18,5 @@ int main()
 			high[i]=a[j][i];		
 		}
 	for(i=0;i<3;i++)
-	printf("Highest marks in subject %d:%d",i+1,high[i]);
+	printf("\nHighest marks in subject %d:%d",i+1,high[i]);
 }
