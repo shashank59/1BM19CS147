@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	char a[50],i,j,k,check=0;
+	char a[50];int i,j,k,check=0;
 	printf("Enter string\n");
 	scanf("%s",&a);
 	for(i=0;a[i]!='\0';i++)
